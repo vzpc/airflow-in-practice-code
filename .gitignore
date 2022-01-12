@@ -1,0 +1,8 @@
+.project
+.DS_Store
+/.idea/
+*.orig
+*~
+*.iws
+*.iml
+*.ipr
